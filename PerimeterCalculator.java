@@ -1,5 +1,6 @@
 
-/*Problem Statement:
+/*
+Problem Statement:
 1) Objective: Develop a basic Java program to understand class and initialize the instance variable of a class.
 
   Problem Description: Develop a class "Rectangle". The class should have two instance variables with private access modifier.

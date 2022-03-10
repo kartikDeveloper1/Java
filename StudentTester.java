@@ -1,4 +1,5 @@
-/*Problem Statement:-the process of registration of students and displaying the details of the registered students along with their residential status.
+/*
+Problem Statement:-the process of registration of students and displaying the details of the registered students along with their residential status.
 The residential status can be "H" for hostellers and "D" for day scholars. To achieve the requirement, they created a class Student having getters and 
 setters in order to access the private member variables. getxxx() and setxxx() methods are the getter and setter methods, where 'xxx' is the member variable name
 

@@ -1,5 +1,6 @@
 /*
 How To use For loop in Java with taking input from User by Scanner Class.
+
 */
 
 import java.util.Scanner;

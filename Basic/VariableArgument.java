@@ -5,6 +5,23 @@ Display all the items on the list.
 Find the maximum value from the list.
 Sort the list in ascending order.
 Find the average of all the items on the list.
+
+-----------------------------------------------
+Input :- 5,8,2,1
+
+-----------------------------------------------
+Output:-
+5
+8
+2
+1
+Maximum Item 8
+Average of List Items 4.0
+1
+2
+5
+8
+----------------------------------------------
 */
 
 
